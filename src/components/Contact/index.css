@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.contact-container {
+  height: 80vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-content {
+  text-align: center;
+}
+.contact-content img {
+  width: 130px;
+  height: auto;
+  margin-bottom: 1rem;
+}

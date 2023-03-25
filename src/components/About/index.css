@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.about-container {
+  height: 80vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-content {
+  text-align: center;
+}
+.about-content img {
+  width: 130px;
+  height: auto;
+  margin-bottom: 1rem;
+}
